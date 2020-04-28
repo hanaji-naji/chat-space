@@ -45,13 +45,14 @@ $light-blue: #38aef0;
       width: 100%;
       padding: 20px 20px 40px;
       font-weight: bold;
-      color: $white;
       &__name {
         font-size: 15px;
         margin-bottom: 5px;
+        color: $white;
       }
       &__message {
         font-size: 11px;
+        color: $white;
       }
     } 
   }
